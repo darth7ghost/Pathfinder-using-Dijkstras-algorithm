@@ -14,10 +14,10 @@ CREANDO EL CIRCUITO:
 Para crear el circuito, debes hacer click sobre algún cuadro. Para cada click que des en algún cuadro, cambiará a un color diferente.
 Los diferentes colores en los cuadros representan caminos, jugadores, muros o salidas.
 
-1.- Los cuadros BLANCOS representan el camino que puede tomar.
-2.- Los cuadros ROJOS representan los muros.
-3.- El cuadro AMARILLO es el Señor Amarillo.
-4.- El cuadro VERDE es la salida.
+1. Los cuadros BLANCOS representan el camino que puede tomar.
+2. Los cuadros ROJOS representan los muros.
+3. El cuadro AMARILLO es el Señor Amarillo.
+4. El cuadro VERDE es la salida.
 
 CUIDADO: debes crear solamente UNA salida y UN jugador.
 Al terminar de crear el laberinto, el botón ¡Ponme a prueba! se habilitará.
